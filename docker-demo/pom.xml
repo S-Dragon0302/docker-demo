@@ -5,7 +5,7 @@
 
 	<groupId>com.xsl.docker</groupId>
 	<artifactId>docker-demo</artifactId>
-	<version>0.0.7-SNAPSHOT</version>
+	<version>0.0.8-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>docker-demo</name>
